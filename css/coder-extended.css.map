@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-extended.css",
-	"sourceRoot": "/github/workspace",
+	"sourceRoot": "/home/runner/work/fritz.github.io/fritz.github.io",
 	"sources": [
 		"stdin"
 	],
